@@ -1,19 +1,20 @@
 ## 👋 Hi there, I'm Muhammad Hamza Butt 
-🎓 #BESE Student @ NUST'28#  
-📍 #Islamabad, Pakistan#
+🎓 _BESE Student @ NUST'28_  
+📍 _Islamabad, Pakistan_
 
 ## 💻 About Me
-• Currently exploring #AI and Machine Learning.#  
+• Currently exploring _AI and Machine Learning._  
 • Experienced with MySQL, n8n, and Figma.  
 • Interested in intelligent systems, automation, and data driven applications.
 
 ## 🛠 Tech Skills
-• #Languages#: C++, Java, Python\n
-• #Tools#: VS Code, MySQL, Figma, n8n 
+• _Languages_: C++, Java, Python  
+• _Tools_: VS Code, MySQL, Figma, n8n 
 
 ## 🌱 Current Focus
-Building a strong foundation in Machine Learning, Data Science, and AI Engineering while developing practical projects that solve real world problems.
+• _AI and Machine Learning_  
+• _Data Science_
 
 ## ✉️ Contact
-LinkedIn: www.linkedin.com/in/mhamza-butt  
-Email: muhammadhamzabuttt@gmail.com
+_LinkedIn_: www.linkedin.com/in/mhamza-butt  
+_Email_: muhammadhamzabuttt@gmail.com
