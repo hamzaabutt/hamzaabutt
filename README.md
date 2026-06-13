@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Hi there, I'm Muhammad Hamza Butt 
+🎓 #BESE Student @ NUST'28#  
+📍 #Islamabad, Pakistan#
 
-<!--
-**hamzaabutt/hamzaabutt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+• Currently exploring #AI and Machine Learning.#  
+• Experienced with MySQL, n8n, and Figma.  
+• Interested in intelligent systems, automation, and data driven applications.
 
-Here are some ideas to get you started:
+## 🛠 Tech Skills
+• #Languages#: C++, Java, Python\n
+• #Tools#: VS Code, MySQL, Figma, n8n 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Current Focus
+Building a strong foundation in Machine Learning, Data Science, and AI Engineering while developing practical projects that solve real world problems.
+
+## ✉️ Contact
+LinkedIn: www.linkedin.com/in/mhamza-butt  
+Email: muhammadhamzabuttt@gmail.com
